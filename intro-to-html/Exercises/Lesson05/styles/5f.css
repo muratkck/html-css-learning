@@ -1,0 +1,26 @@
+p{
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+.price{
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.money-unit{
+  font-size: 14px;
+  color: gray;
+  margin-left: 5px;
+}
+.change-daily{
+  color: green;
+  margin-bottom: 10px;
+}
+.change-hourly{
+  color: gray;
+}
+.change-amount{
+  color: red;
+}
