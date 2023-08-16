@@ -1,0 +1,60 @@
+
+p{
+  font-family: Arial;
+  line-height: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div{
+  margin-bottom: 8px;
+  width: 380px;
+}
+.profile_picture{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.profile_photo_part{
+  display: inline-block;
+  vertical-align: middle;
+  width: 50px;
+}
+
+.attributes{
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+  margin-left: 12px;
+  line-height: 5px;
+}
+.follow_part{
+  display: inline-block;
+  vertical-align: middle;
+  width: 80px;
+}
+.follow_button{
+  width: 100%;
+  background-color: rgb(93, 166, 244);
+  border: none;
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 14px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.name{
+  font-weight: bold;
+  font-size: 14px;
+}
+.gender_name,
+.popularity{
+  font-size: 13px;
+  color: gray;
+}
+.popularity{
+  font-size: 12px;
+}

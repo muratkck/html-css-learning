@@ -1,0 +1,12 @@
+.design{
+  width: 300px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgba(193, 178, 178, 0.6);
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+.title{
+  font-family: Arial;
+  font-size: 14px;
+}

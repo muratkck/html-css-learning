@@ -1,0 +1,49 @@
+div{
+  font-family: Arial;
+}
+.clothes_container{
+  position: relative;
+  display: inline-block;
+}
+.clothes_picture{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.sale{
+  position: absolute;
+  background-color: black;
+  color: white;
+  right: 0;
+  top: 10px;
+  font-family: Arial;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.bottom_overlay{
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 80px;
+}
+.add_to_cart{
+  border-style: solid;
+  font-family: Arial;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 2px;
+  background-color: white;
+  color: black;
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 12px;
+}
